@@ -5,5 +5,9 @@
   "main": "app.js",
   "author": "rokity <riccardo.amadio1@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "hapi": "^17.6.0",
+    "mongodb": "^3.1.8"
+  }
 }
