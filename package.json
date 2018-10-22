@@ -1,0 +1,9 @@
+{
+  "name": "adminmongo",
+  "version": "1.0.0",
+  "description": "it's a admin-panel for MongoDB",
+  "main": "app.js",
+  "author": "rokity <riccardo.amadio1@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
