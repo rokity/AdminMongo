@@ -6,8 +6,17 @@
   "author": "rokity <riccardo.amadio1@gmail.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "dev": "nodemon ./app.js localhost 3000"
+  },
   "dependencies": {
+    "boom": "^7.2.0",
     "hapi": "^17.6.0",
-    "mongodb": "^3.1.8"
+    "inert": "^5.1.0",
+    "joi": "^14.0.0",
+    "lout": "^11.1.0",
+    "mongodb": "^3.1.8",
+    "nodemon": "^1.18.4",
+    "vision": "^5.4.0"
   }
 }
